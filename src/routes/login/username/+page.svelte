@@ -94,5 +94,5 @@
                 <button class="btn btn-success">Confirm username @{username} </button>
             {/if}
         </div>
-    </form>>
+    </form>
 </AuthCheck>
